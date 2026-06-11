@@ -1,6 +1,6 @@
 # 
 
-![loading-ag-207](/Users/furnival/Documents/PerplexityFiles/frenchForeignLegion_small.png)
+![thelegion](frenchForeignLegion_small.png)
 
 # English Translation — Foreign Legion Cyber Tracking and Countertracking Instruction
 
