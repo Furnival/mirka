@@ -13,7 +13,7 @@ Some issues that are barely touched on: immortality, love and trust between an i
 
 The novel is not for everyone. For one thing it is full of details of cyber security. I hope that this novel can have as much detail about cyber and AI as Melville put about whaling in Moby Dick. Of course Moby Dick is really not about whaling...
 
-The documents that appear to be **classified documents of the French Government** are inventions and have *no basis in reality* that I know of.
+The documents that appear to be **classified documents of the French Government** are inventions and have **no basis in reality** that I know of.
 
 ____
 
