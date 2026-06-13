@@ -5,15 +5,15 @@ Novel about an AI dog, cybersecurity and a monastery
 
 *First draft is at: foucaults_box_first_draft_compilation.md*
 
-Story is of a Russian A.I. researcher who becomes a monk at the Grand Chartreuse Monastery in the Chartreuse mountains of France. He creates a virtual dog from his memories of a dog he loved and outlived. The A.I. dog outlives him. How does one intelligence trust another? How does an immortal intelligence love a mortal one?
+Story is of a Russian A.I. researcher who becomes a monk at the Grand Chartreuse Monastery in the Chartreuse mountains of France. He creates a virtual dog from his memories of a dog he loved and outlived. The A.I. dog outlives him and is by natue a tracker. How does one intelligence trust another? A love story.
 
-The issues are immortality, love and trust between an immortal and a mortal, can the church be trusted with technology that reshapes the world, about how trust could have happened between a wolf -- the first dog -- and a human? And could pieces of people — their values and their memory — become preserved -- a bit of immortality? -- inside an AI. 
+The issues are immortality, love and trust between an immortal and a mortal, an AI and an organic. I am thinking about can the church be trusted with technology that reshapes the world and about how trust could have happened between a wolf -- the first dog -- and a human but those are only subtly in the story. Also I wonder -> could pieces of people — their values and their memory — become preserved -- a bit of immortality? -- inside an AI? 
 
 The novel is not for everyone. For one thing it is full of details of cyber security. I hope that this novel can have as much detail about cyber and AI as Melville put about whaling in Moby Dick. Of course Moby Dick is really not about whaling...
 
 The documents that appear to be classified documents of the French Government are inventions and have no basis in reality that I know of.
 
-DUST COVER FLAP COPY:
+CLAUDE GENERATED DUST COVER FLAP COPY (appologies that is a bit commercial hype language but it is a good summanry):
 
 An immortal dog’s mind. A dying Russian monk. A French hospital on the edge of a cyberwar.
 
