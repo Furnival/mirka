@@ -15,6 +15,8 @@ The novel is not for everyone. For one thing it is full of details of cyber secu
 
 The documents that appear to be **classified documents of the French Government** are inventions and have *no basis in reality* that I know of.
 
+____
+
 DUST COVER FLAP COPY (appologies that is a bit commercial hype language but it is a good summanry):
 
 An immortal dog’s mind. A dying Russian monk. A French hospital on the edge of a cyberwar.
