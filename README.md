@@ -5,13 +5,13 @@ Novel about an AI dog, cybersecurity and a monastery
 
 *First draft is at: foucaults_box_first_draft_compilation.md*
 
-Story is of a Russian A.I. researcher who becomes a monk at the Grand Chartreuse Monastery in the Chartreuse mountains of France. He creates a virtual dog from his memories of a dog he loved and outlived. The A.I. dog outlives him and is by natue a tracker. How does one intelligence trust another? A love story.
+Story is of a Russian A.I. researcher who becomes a monk at the Grand Chartreuse Monastery in the Chartreuse mountains of France. He creates a virtual dog from his memories of a dog he loved and outlived. The A.I. dog outlives him and is by natue a tracker. How does one intelligence trust another? Seems to me that the issue is similar to how the wolf and man learned to trust one another.
 
-The issues are immortality, love and trust between an immortal and a mortal, an AI and an organic. I am thinking about can the church be trusted with technology that reshapes the world and about how trust could have happened between a wolf -- the first dog -- and a human but those are only subtly in the story. Also I wonder -> could pieces of people — their values and their memory — become preserved -- a bit of immortality? -- inside an AI? 
+Some issues that are touched on but not beaten to death: immortality, love and trust between an immortal and a mortal, an AI and an organic. I am wondering about can the church be trusted with technology that reshapes the world. Also I wonder could pieces of people — their values and their memory — become preserved -- a bit of immortality? -- inside an AI? 
 
 The novel is not for everyone. For one thing it is full of details of cyber security. I hope that this novel can have as much detail about cyber and AI as Melville put about whaling in Moby Dick. Of course Moby Dick is really not about whaling...
 
-The documents that appear to be classified documents of the French Government are inventions and have no basis in reality that I know of.
+The documents that appear to be classified documents of the French Government are inventions and have **no basis in reality** that I know of.
 
 CLAUDE GENERATED DUST COVER FLAP COPY (appologies that is a bit commercial hype language but it is a good summanry):
 
