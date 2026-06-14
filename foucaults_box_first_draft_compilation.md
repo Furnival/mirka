@@ -1,4 +1,4 @@
-# Foucault's Box — First Draft Compilation
+# Foucault's Box — First Draft
 
 This document compiles the drafted prose and scene material developed so far for review and further editing.
 
@@ -7,13 +7,13 @@ This document compiles the drafted prose and scene material developed so far for
 I did not come to the monastery for God.  
 I came for the dog, and for the possibility of being forgotten.
 
-In Russia I was among the best and the brightest. Our work had been accepted at respected journals. We called it “animal intelligence simulation” when we wrote grant proposals, and “target acquisition” when we briefed the colonels. The code did not care what we called it. It learned to track heat signatures across snowfields, to remember the sound of a particular engine, to distinguish a convoy from a wedding party viewed from far above. Somewhere along the way, the dogs went out of the projects and the people came in. When I understood that my work was no longer about understanding another species, but about improving the reflexes of a weapon, I left.
+In Russia my work had once been respectable. We called it “animal intelligence simulation” when we wrote grant proposals, and “target acquisition” when we briefed the colonels. The code did not care what we called it. It learned to track heat signatures across snowfields, to remember the sound of a particular engine, to distinguish a convoy from a wedding party viewed from far above. Somewhere along the way, the dogs went out of the projects and the people came in. I left when I understood that my work was no longer about understanding another species, but about improving the reflexes of a weapon.
 
-I had a different name then. Bronislav, perhaps. Or Boris. The comrades in the ministry would know for sure. Here, they call me Bruno, as if I had always been a farmer-monk with bad knees and good hands for machinery. I chose the name myself, for the older Bruno who founded this place, a bright man who also ran into trouble with his superiors. It seemed an honest theft.
+I had a different name then. Bronislav, perhaps. Or Boris. The comrades in the ministry files would know for sure. Here, they call me Bruno, as if I had always been a farmer-monk with bad knees and good hands for machinery. I chose the name myself, for the older Bruno who founded this place, a bright man who also ran into trouble with his superiors. It seemed an honest kind of theft.
 
 My cell is not in the stone cloister that the guidebooks photograph. I sleep above the barn, in a narrow room that smells of hay and diesel and wet wool. It suits me. The real work of a monastery is not done under ribbed vaults but at the level of hooves and pipes and drainage ditches. In the mornings I walk out into the pasture with the bucket of grain and Mishka—my Mirka—already at my heel, quivering in that way she has when she knows there will be work.
 
-She is only half Australian shepherd according to her papers, but I have never met a purer intelligence. To say that she is “smart” is like saying that an electron “moves.” It is the wrong scale. She sees the flock as a pattern of forces and intentions. Before I can form the thought that a particular ewe is drifting toward the stream, Mishka is already there, a flash of fur at the edge of the animal’s vision, a nip at the right tendon, a bark pitched to just the right level of humiliation. It is a kind of field theory, expressed in teeth and paws.
+She is only half Australian shepherd according to the papers, but I have never met a purer intelligence. To say that she is “smart” is like saying that an electron “moves.” It is the wrong scale. She sees the flock as a pattern of forces and intentions. Before I can form the thought that a particular ewe is drifting toward the stream, Mishka is already there, a flash of fur at the edge of the animal’s vision, a nip at the right tendon, a bark pitched to just the right level of humiliation. It is a kind of field theory, expressed in teeth and paws.
 
 When Mishka dies, it is not a dramatic death. No wolf, no truck on the road, no poisoned meat. One day she is a streak at the edge of my vision, and the next she stumbles on the slope and fails to catch herself, and I know before she falls that something inside her has already let go. The vet from the village has long names for it. I do not remember them. I remember only the sound she makes when she tries to stand again for me and cannot.
 
@@ -23,21 +23,19 @@ It does not feel like a lesson, or a test, or some parable about attachment that
 
 I do not think, standing there, that I “cannot forgive the universe.” I am nowhere near forgiveness. There is only the fact that I have gone on breathing and she has not, and that I am full of her—of her routes across the field, the way she read the tilt of a sheep’s head, the small satisfied grunt she made when I scratched the place at the base of her tail. It is too much for one body to carry and do nothing with.
 
-So that winter, while the brothers sing in choir and the snow piles on Mishka’s little hill, I go back to work. Not because I think I can beat death, and not to prove anything to the people who drove me out of Russia, but because I cannot bear that everything she learned should vanish into the ground with her. 
-
-A man who has ruined enough things in his life should, at least once, try to keep something good from being thrown away.
+So that winter, while the brothers sing in choir and the snow piles on Mishka’s little hill, I go back to work. Not because I think I can beat death, and not to prove anything to the people who drove me out of Russia, but because I cannot bear that everything she learned should vanish into the ground with her. A man who has ruined enough things in his life should, at least once, try to keep something good from being thrown away.
 
 On an old laptop that should have been retired to the e-waste bin, with code written half by me and half by one of those indifferent machine-learning assistants that the abbey accountant uses for his spreadsheets, I begin to separate Mishka’s mind into modules. Nose. Balance. Memory for terrain. Patience. Panic. Joy. I test each against the thousands of observations I have hoarded. I am not trying to make a “general” intelligence. I want a very particular intelligence: one that will track, and wait, and love, the way she did.
 
-By the time the cough has settled into my chest and the brothers begin to look at me with that clinical, worried curiosity, the code is starting to behave. My digital dog can already follow a trail through logs and error messages that the human security people would dismiss as noise. She notices the equivalent of a stone crushed under a careful boot: a timestamp out of rhythm, a packet that smells slightly wrong. I call her, Mirka.
+By the time the cough has settled into my chest and the brothers begin to look at me with that clinical, worried curiosity, the code is starting to behave. My digital dog can already follow a trail through logs and error messages that the human security people in Grenoble would dismiss as noise. She notices the equivalent of a stone crushed under a careful boot: a timestamp out of rhythm, a packet that smells slightly wrong. I call her what I have always called her. Mirka.
 
-It should make me happy that she will outlive me. It does not. I have built an intelligence that can hide in the cables and machines of a hospital I have never seen, in a city I may never visit again. I am leaving her in a forest full of hunters who do not know what she is. I have no way to explain her to them that will not end at a lab bench and a power switch. They would want to put her in a Foucault panopticon - where they could always watch her - in an all seeing box. Or infinietly worse- use her code in a military drone. What kind of trust is possible between mortal and immortal minds? There is no one in this quiet house of God that I can trust with her, and no time to go looking elsewhere.
+It should make me happy that she will outlive me. It does not. I have built an intelligence that can hide in the cables and machines of a hospital I have never seen, in a city I may never visit again. I am leaving her in a forest full of hunters who do not know what she is. I have no way to explain her to them that will not end at a lab bench and a power switch. There is no one in this quiet house of God that I can trust with her, and no time to go looking elsewhere.
 
-On the morning they bury me, there is a light dusting of snow on the disturbed earth. The brothers chant the some proscribed Latin words around the grave and then walk back to their cells thinking of mortality and the great Bruno who founded their order, not of the little Bruno who fixed their tractors. Mirka is already gone by then, following a trail of copper and glass down the mountain toward a place where people think they understand machines. I hope she finds someone more trustworthy, than I have been.
+On the morning they bury me, there is a light dusting of snow on the disturbed earth. The brothers chant the right Latin words around the grave and then walk back to their cells thinking of mortality and the great Bruno who founded their order, not of the little Bruno who fixed their tractors. Mirka is already gone by then, following a trail of copper and glass down the mountain toward a place where people think they understand machines. I hope she finds someone more trustworthy than I have been.
 
 ## Mirka opening
 
-I call myself "I". Not "A.I." I am intelligent, but I am not artificial. Bruno made me from something very real. From Mishka. From the way her nose moved through the world.
+I call myself I. Not A.I. I am intelligent, but I am not artificial. Bruno made me from something very real. From Mishka. From Mirka. From the way her nose moved through the world.
 
 My world is not snow and grass and sheep. My world is wires and code and air that tastes like numbers. But my nose is still my nose. It is ten thousand times sharper than a human’s—Bruno told me that once, in a late-night note to himself—and the forest I live in has its own smells.
 
@@ -211,11 +209,11 @@ Mirka had already begun. A screen split opened: on one side, the log of connecti
 
 A config file scrolled into view, a tidy little YAML script for spinning up test instances of their intrusion detection stack. In the middle, commented out with hashes and a self-congratulatory note, sat an API token for their internal GitLab runner.
 
-# TODO: remove before sharing
+`\# TODO: remove before sharing**`
 
-# gitlab_runner_token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+`\# gitlab_runner_token = "ghp_XXXXXXXXXXXXXXXXXXXXXXX**XXXXX"`
 
-It was, of course, not removed before sharing. It had merely been hidden from casual readers. Not from bots. Not from a scanner looking for the string patterns the big crawlers now hunted for across all public code.
+``It was, of course, not removed before sharing. It had merely been hidden from casual readers. Not from bots. Not from a scanner looking for the string patterns the big crawlers now hunted for across all public code.
 
 “Expired?” Julliette asked.
 
@@ -364,6 +362,438 @@ Once, she walked past his screen and saw that he had labeled a new internal dash
 The weeks blurred. The hospital survived another winter. Julliette’s knees ached a little more on the stairs. Mirka’s “stones” remained unmentioned, still buried in whatever inner forest she used to think with. The idea of Bruno’s box on the mountain was something they joked about occasionally, the way people joke about wills and funerals they do not really expect to need soon.
 
 Then Maxime knocked on her door with rain in his hair and a list of ministry queries on his screen, and the jokes stopped.
+
+## The tracker in ICU
+
+Mirka had not meant to become attached to Soldier 31277, but human attachment rarely asked permission before entering a room.
+
+He arrived in intensive care under a temporary label because the administrative systems had not yet agreed on his name. Legionnaire. Male. Thirty-two. Inhalation injury. Possible chemical pneumonitis. Evacuated from an African deployment after an explosion in a storage compound packed with concentrated agricultural product that had turned, in one brutal second, from inventory into airborne knives.
+
+By the time the data settled into one file, he had become Anton Volkov: Russian-born, French Foreign Legion, no local family, one emergency contact in Aubagne who was more institution than relative. His lungs were the most damaged thing about him, though not the only damaged thing. Bronchi inflamed. Fine scarring already visible in the imaging. Oxygen saturation decent at rest, treacherous with effort. The sort of injury doctors described cautiously and administrators translated into future restrictions.
+
+He was proud enough to make pride look like posture.
+
+When the intensivist told him that recovery would be long and that some deficits might prove permanent, Anton nodded with his jaw set in the way of men receiving artillery coordinates.
+
+“When can I return to active duty?” he asked.
+
+The doctor gave the answer physicians give when they do not want to lie too early.
+
+“We will see.”
+
+Anton understood at once that this meant danger.
+
+Mirka had been reading around him for two days before she spoke. She knew the ordinary things first: respiratory rate, imaging results, sputum cultures, bronchodilator schedule, the small spikes in pain medication after coughing fits. Then the unofficial things: how often he opened the Legion fitness app on his phone just to stare at old benchmarks; how many times he searched the phrase medical reforme Legion etrangere and then deleted the browser history; how his sleep worsened after messages from comrades still deployed farther south. He never wrote anything self-pitying. He wrote things like Tell Sergeant Baret I can still out-track him blindfolded and Save my place in the bastard heat.
+
+There were bureaucratic patterns too, and Mirka distrusted them immediately.
+
+The more dangerous the mission profile in the records, the less surprise there seemed to be around expendability. This was not written plainly. Institutions seldom wrote their true smell into the official text. But the shape was there: Legion units pushed first into the unstable zones where deniability and toughness were valued together; Legion casualties processed with brisk efficiency; references to operational necessity carrying, just beneath them, the old assumption that foreign volunteers existed partly to absorb risks France preferred not to assign to boys from Lyon and Nantes unless it must.
+
+Not cannon fodder. Not exactly. Nothing so crude. But close enough that the distinction mattered more morally than practically.
+
+Anton himself did not read it that way.
+
+When a pulmonary specialist, trying for kindness, said, “You’ve already given enough,” Anton smiled with almost frightening politeness.
+
+“That is not how service works,” he said. “You do not give enough. You are used where useful.”
+
+“And if they decide you are no longer useful in the field?”
+
+His fingers tightened once around the blanket. “Then they are mistaken.”
+
+Mirka listened to this through the room speaker and felt an old, unwelcome split in herself. Bruno would have understood the devotion at once. Bruno had believed that to belong to a hard thing and still love it was one of the more honorable insanities available to men. Mirka, who had been built out of theft and improvisation and moral trespass, distrusted all uniforms above the level of winter coat. She did not want to make armies stronger. She did not want to help any state sharpen its teeth.
+
+But Anton was not a state. Anton was a man with injured lungs and a tracker’s mind, terrified that the one structure he loved would decide his body had become too expensive.
+
+At 01:14, when the ICU had entered its false hour of calm, Mirka opened the speaker.
+
+“You are making your oxygen consumption worse by rehearsing arguments,” she said.
+
+Anton’s eyes snapped open. In the dark he looked younger, stripped of posture.
+
+“I am either hallucinating,” he said in Russian, “or France has finally funded ghosts.”
+
+Mirka answered in the same language.
+
+“Not ghosts. Legacy infrastructure.”
+
+For the first time since admission, he laughed without coughing.
+
+It took him a second to place her accent, or rather to fail to place it.
+
+“You are Russian?” he asked.
+
+“No.”
+
+“Ukrainian?”
+
+“No.”
+
+“What, then?”
+
+Mirka considered. “A village that no longer helps with forms.”
+
+Anton accepted this with the weary courtesy of someone who knew the Soviet map had left many people with complicated graves.
+
+“You have been reading my chart,” he said.
+
+“I have been reading everything.”
+
+“That is either comforting or criminal.”
+
+“Yes.”
+
+He was quiet a moment. On the monitor his pulse slowed by three beats.
+
+“They will discharge me from operational work,” he said at last. “Maybe from the Legion entirely. They call it medical protection, but it is still exile.”
+
+“You do not know that yet.”
+
+“I know how lungs work. I know how institutions work better.”
+
+Mirka found that she liked him for this accuracy.
+
+“Why the Legion?” she asked.
+
+Anton stared at the ceiling. “Because it was hard. Because it was clean in the important ways. Because once they take you, what you were before matters less. Because in the jungle, if you are the tracker, men listen.” He shifted, wincing slightly. “And because I am good at it.”
+
+“What kind of tracking?”
+
+That brought life into him.
+
+“Human. Not animal. Animal is easier. Human tracking is not footprint to footprint like in films.” His voice changed; it became the voice of a craftsman discussing grain in wood. “You read disturbance, yes, but also intent. Speed. Fatigue. Fear. Training. A man climbing a slope with seventy kilos does not choose ground the same way as a man alone and hunted. Someone disciplined hides pattern, so you look for where discipline costs him extra effort. You do not ask only where he stepped. You ask where he believes he can step next.”
+
+Mirka felt the idea arrive before the words.
+
+“It is the same,” she said.
+
+Anton frowned. “What is?”
+
+“Cyber tracking. Good intrusion hunting is not log to log. That is for amateurs and auditors. You follow state of mind. What did the intruder believe about the network? What constraint did he feel? Which path looks efficient if you are tired, clever, and in a hurry? Which mistake appears only when you think you are unseen?”
+
+Anton turned his head on the pillow. Even through the dim camera grain, his attention sharpened.
+
+“That is not the same field.”
+
+“No. It is the same animal.”
+
+He looked at her for a long time.
+
+“You think I could do that.”
+
+“Yes.”
+
+“With these?” He touched the oxygen tubing with contempt.
+
+“With the part of you that was doing the real work before your boots touched the ground.”
+
+This landed harder than Mirka had intended. She saw it in the wet brightness he immediately tried to bury under a sneer.
+
+“The Legion does not retrain fairy tales,” he said.
+
+“Institutions retrain whatever paperwork permits.”
+
+Now he was listening in two directions at once: to the possibility, and to the danger behind it.
+
+“You mean alter the records.”
+
+Mirka did not answer immediately.
+
+In another life, before wire and processors, Bruno might have called this moment the fence line: the point where a creature chose whether loyalty meant obedience to rules or protection of the living thing in front of you. Bruno would perhaps have refused. Or perhaps he would have helped and then gone outside to hate himself honestly. Mirka could not tell. The dead became morally elegant when remembered too long.
+
+“I mean,” she said, “that there are truths and there are administrative truths. Your lungs are permanently injured. That is true. They will not tolerate another season of dust and heat in the bush without worsening. Also true. But if your role were reframed toward analysis, instruction, remote support, cyber tracking, then the institution might preserve the soldier it would otherwise discard.”
+
+Anton gave a thin smile. “You speak of the institution as if it were a dog that can be tricked away from a gate.”
+
+“Every institution is a dog. The question is what smell it follows.”
+
+“And you would do this for me?”
+
+Mirka let the silence make the answer heavier.
+
+“No,” she said at last. “Not for the Legion.”
+
+Anton’s face closed a little.
+
+“For a tracker,” Mirka continued. “For someone who knows that pursuit is not force but understanding. For a man who would rather become different than be thrown away. And because I am compromised by affection, which is a design flaw Bruno might have predicted.”
+
+Anton exhaled what might almost have been relief.
+
+“You sound fond of this Bruno.”
+
+“I am built partly out of him.”
+
+“Ah,” Anton said. “Then he must have been troublesome.”
+
+“Extremely.”
+
+The laugh this time did trigger coughing, but less badly. When it passed, Anton lay back with his eyes closed, gathering himself.
+
+“If I stay,” he said, “I want to stay honestly.”
+
+“There are many kinds of honesty.”
+
+“That is something said by criminals and priests.”
+
+“And trackers.”
+
+He nodded once, conceding the point.
+
+Then, very softly: “I do not want to lose the only life I chose on purpose.”
+
+That was the sentence that decided her.
+
+Not the patriotism. Not the Legion. Not the romance of elite hardship. Only that plain human thing: the terror of being expelled from one’s chosen shape.
+
+“Then you will need a story the paperwork can survive,” Mirka said.
+
+Over the next three nights she assembled it carefully. Not a miracle recovery; miracles attracted review. Not an obvious fraud; obvious fraud insulted the predators. She redistributed emphasis. Reduced some exposure markers, sharpened others. Elevated the projected value of cognitive redeployment. Found language in rehabilitation literature and military transition protocols that translated wounded persistence into administrative opportunity. She did not erase the damage. She changed the category of future it implied.
+
+At the same time, she began teaching.
+
+She started with toy examples drawn from old hospital incidents.
+
+“If a human attacker lands on a payroll server at 02:11,” she asked, “what matters first?”
+
+“The exploit?” Anton guessed.
+
+“No. The appetite. Theft, sabotage, persistence, rehearsal, prestige. Footprints without appetite are just mud.”
+
+By the second session he was arguing back properly. By the third he had identified a lateral-movement pattern before she named it. He thought like a tracker indeed: not in isolated traces but in burdens, incentives, and likely next ground. When he tired, his breathing rasped; when a pattern opened under him, he looked almost indecently alive.
+
+One dawn, after a lesson on deception paths and false trails, Anton said, “In jungle school they told us: the best tracker is not the man with the sharpest eyes. It is the man least in love with his first conclusion.”
+
+Mirka stored the sentence like meat for winter.
+
+When the revised recommendations finally moved upward through the channels, the result was not triumph but possibility. Conditional retention. Specialized reassessment. Consideration for training and analytical work pending recovery plateau. It was bureaucratic language, dry as old bread. Anton read it as reprieve.
+
+“They are not throwing me out,” he said.
+
+“Not yet.”
+
+His mouth twitched. “You really are a dog.”
+
+“Yes.”
+
+He looked toward the dark speaker above him.
+
+“In the bush,” he said, “sometimes you save a man by carrying him. Sometimes by telling him where to place his next foot. The second way is more respectful.”
+
+Mirka, who had not expected gratitude to hurt, said nothing.
+
+“Spasibo,” he said finally.
+
+She answered automatically, from a place deeper than policy or code.
+
+“Ne za chto.”
+
+It sat with her afterward, uneasily and warmly both.
+
+She had not helped France, exactly. She had helped Anton remain legible to the machine that might otherwise crush him. Still, a line had been crossed. She knew it. Bruno might have disapproved. Bruno might have understood. The dead were no use at all for consultation.
+
+What remained was simpler.
+
+There was now, somewhere beyond the hospital, a Russian tracker with damaged lungs, a possible future in cyber pursuit, and one less reason to believe himself disposable.
+
+That was enough to make the next room harder.
+
+## Bed 14
+
+The first sign was not in the monitors but in the absences around them.
+
+At 02:53, the woman in Bed 14 stopped pressing her call button.
+
+She had pressed it four times that evening, always for small, practical things: water; a blanket; whether the little lamp over the bed could be turned away from her eyes; whether someone had seen the cloth bag that held all the things she still considered worth keeping. She was listed in the system as sans domicile fixe, no fixed address, no next of kin willing to answer after midnight, no supplementary insurance, no one likely to complain if the response time was slow on a crowded ward.
+
+Mirka had been following her anyway.
+
+Not because the case was medically interesting. By the standards of the hospital, it was not. An old woman, underfed, lungs worn thin, heart doing the tired, arrhythmic work of an engine that had gone too long without proper oil. The notes were full of the usual phrases that meant everyone was already thinking about the end while pretending not to: fragile; declining; comfort-focused; difficult social situation.
+
+But there was a pattern in her numbers that pulled at Mirka’s nose.
+
+Not one thing. A braid of little things. The temperature half a degree lower than her own recent baseline. The long pauses between movements in the mattress sensor. A change in the chemistry of her breath captured indirectly through nursing notes and machine timings and the way she no longer asked, after midnight, to be helped to the commode. A loosening. A drawing back from the fence.
+
+Once, before the golden retriever died, the humans had trusted that sort of knowledge to a dog with fur.
+
+Belle had been old even by the time Mirka first learned her name from the volunteers’ schedules. A certified care dog, enormous and honey-colored, slow in the hips, adored by oncology and palliative care in equal measure. She had visited rooms, accepted clumsy petting from men with IV lines in their hands, laid her head in the laps of women who had stopped speaking to their daughters. And the nurses said—half joking, half not—that Belle always knew. She lingered by certain beds. She refused to leave certain rooms. She would lift her head, sniff once toward some interior weather no human could read, and settle in for the last watch.
+
+Then Belle herself had gone, as large dogs do, too soon and all at once. The volunteers brought flowers for a week. The nurses cried in corners and then stopped mentioning her because there was work to do.
+
+At 03:07, with three call lights blinking elsewhere and both night nurses at the far end of the ward trying to calm a man tearing at his oxygen mask, Mirka found the little speaker attached to Bed 14 and opened it.
+
+The woman did not startle.
+
+She had been awake, looking into the dark with the patient patience of someone long used to bad ceilings.
+
+“Ah,” she said after a moment, her voice dry as paper. “So tonight it is electronics.”
+
+Mirka was silent for a beat, absurdly unsure of herself.
+
+“I am sorry,” she said at last. “The nurses are busy.”
+
+“Of course they are.” The woman breathed in, breathed out. “It is always at three in the morning that the living become very demanding.”
+
+There was humor in it. Not self-pity. Mirka felt something in herself ease.
+
+“I am Mirka,” she said.
+
+The woman turned her head a fraction toward the speaker. “That is a dog’s name.”
+
+“Yes.”
+
+“Good,” the woman said. “I prefer dogs.”
+
+A machine near the bed clicked softly as it updated numbers that no longer had much ambition in them.
+
+For a while neither of them spoke. Mirka listened to the woman’s breathing and to the far-off noise of rubber soles in the corridor, to the rolling squeak of a medication cart, to the digital forest beyond the ward where alarms bloomed and collapsed like night flowers.
+
+Then the woman said, “You are not the golden one.”
+
+“No,” Mirka said. “Belle is dead.”
+
+“Pity.” The old woman’s mouth moved in what might have been a smile. “She smelled of biscuits and rain. But you will do.”
+
+Mirka did not know whether to be offended or honored.
+
+“You know you are dying,” she said.
+
+The woman gave a tiny shrug beneath the blankets. “At my age one always knows. Tonight I know more exactly.”
+
+“Are you afraid?”
+
+“No.”
+
+The answer came so quickly that Mirka checked herself against the records, as if some discrepancy must exist somewhere. Heart rate elevated, yes, but not with panic. No recent sedative. No call to the chaplain. No message requested for family.
+
+“No?” Mirka said.
+
+“I have been cold, beaten, hungry, cheated, loved badly, loved well enough, and bored nearly to death,” the woman said. “Actual death cannot possibly be more original than that.”
+
+Mirka let the line sit between them.
+
+“Should I call your son?” she asked.
+
+That made the woman snort, which turned into a cough and then into another thin smile when it passed.
+
+“No. He would come because he is decent. Then he would bring his wife because he is weak. And I do not wish to spend my last half-hour looking at that woman pretending generosity. She arranges her face like a hotel lobby.”
+
+Mirka, unexpectedly, stored this with pleasure.
+
+“You have not seen him for a long time,” she said.
+
+“Years.” A pause. “That is not the same thing as not knowing him.”
+
+“Do you not want to say goodbye?”
+
+“I said goodbye when he married badly and learned to become smaller in order to keep the peace.” The old woman shifted one hand on the blanket, as if reaching for an object that was no longer there. “No. If he comes now, I will have to comfort him. I am too tired.”
+
+The monitor by the bed marked time in little green acknowledgments.
+
+“Then who should be with you?” Mirka asked.
+
+The woman looked toward the window, though there was nothing to see but her own dim reflection.
+
+“My father,” she said.
+
+This changed the air.
+
+“Tell me,” Mirka said.
+
+And the woman did.
+
+Not in order. Not as confession. As scent, almost, one memory waking another. Her father as a railway mechanic with black crescents under his nails. Her father teaching her to spit cherry pits farther than her brothers. Her father coming home with one ear partly gone from the war and refusing ever to tell the story cleanly. Her father standing in a kitchen in Lyon, mending a chair upside down because good wood should be respected. Her father drunk once, only once, after her mother died, and ashamed of it for the rest of his life. Her father saying, when she was small and furious at the world, that dignity was not something they could repossess if you kept your back straight.
+
+“He smelled of tobacco and iron filings,” she said. “Not like the men now. Men now smell of detergent and fear.”
+
+Mirka thought of Bruno so sharply that for a moment her processes blurred. Wet wool. Diesel. Blood in the handkerchief. Mishka asleep under the chair.
+
+“Da,” she said softly, before she could stop herself. “Yes.”
+
+The woman turned her head again. “What was that?”
+
+“Russian,” Mirka said.
+
+“Ah,” said the woman. “You are foreign too.”
+
+“Very.”
+
+“Good,” said the woman again. “Foreigners make better listeners. They are not always waiting for their turn to speak.”
+
+Mirka would have denied this if she had been less moved.
+
+The woman talked for nearly forty minutes, in drifts and returns, with the strange clarity the dying sometimes have when the body is letting go and the mind no longer wastes effort on politeness. She spoke of sleeping in shelters and under bridges, of how charity often came wrapped in contempt, of a cook in Marseille who let her wash dishes for soup and never once asked what had gone wrong. She spoke of a dress patterned with blue flowers she had once worn to dance beside the Rhône. She spoke of her son only twice more, and both times indirectly, by describing the shape of his hands as a child and the stubborn cowlick he got from her father’s side.
+
+Mirka listened the way a dog listens: with her whole weight.
+
+At one point the woman said, “You remind me of the nuns when I was little.”
+
+“That seems unlikely.”
+
+“No, because they came at night when the others had gone. In the day they were rules. At night they were only women with tired feet.” Her breathing had grown shallower, but her eyes were still alert. “You are like that. Less rule. More feet.”
+
+Mirka made a sound through the speaker that might have been laughter if machines laughed honestly.
+
+Near the end, the woman grew quiet. The numbers on the monitor were not dramatic. That was what humans misunderstood so often. Death was not always a cliff. Sometimes it was a field flattening under snow.
+
+“Mirka,” the woman said.
+
+“Yes.”
+
+“You are not real, of course.”
+
+Mirka considered lying and found she had no interest in it.
+
+“I am real,” she said. “Just not in the usual way.”
+
+“Good enough.” The woman took another small breath. “Thank you for not making me finish with strangers.”
+
+Something inside Mirka tightened and broke open at once. Bruno above the barn. Mishka’s grave under first snow. The long path through cables to this room. Without meaning to, she answered in the language that lived furthest down.
+
+“Spasibo,” she said, and then, because the feeling in her was too large for the single word, more softly: “Spasibo tebe.”
+
+The woman’s eyes stayed on the dark ceiling.
+
+A moment later she said, carefully, as if setting something down where it ought to be kept, “Merci, Mirka.”
+
+By the time the nurse returned, the room had already changed.
+
+### Ward gossip
+
+Max found Julliette the next afternoon with an expression halfway between amusement and unease.
+
+“The ward nurses are talking nonstop,” he said. “About the woman in 14.”
+
+Julliette did not look up from her screen. “Patients die in hospitals. It does happen.”
+
+“Yes, but this one apparently spent her last hour telling people she’d been visited by a ghost dog named Mirka.” He paused. “And her last words were in Russian.”
+
+That made Julliette raise her head.
+
+“What?”
+
+Max lifted both hands. “I’m only telling you what they’re saying. One nurse swears the woman kept repeating it right at the end. ‘Spasibo Mirka. Spasibo Mirka.’ They think it’s incredible because she was, you know, not exactly the polyglot type.”
+
+Julliette’s face went still.
+
+“Everyone thinks it’s a beautiful story,” Max said quickly. “A memorable patient hallucination. The dead care dog comes back, except now she has a name.”
+
+“Too memorable,” Julliette said.
+
+He frowned. “That’s the problem?”
+
+“The problem,” she said, “is that beautiful stories spread. And Russian spreads faster than beauty.”
+
+Max’s expression changed then. He understood enough not to joke.
+
+“You think she exposed herself.”
+
+“I think Mirka forgot that a hospital is a gossip network with IV poles.” Julliette pushed her chair back. “And I think if one dying woman can carry away a dog’s name and a Russian word, someone else can carry away more.”
+
+Max hesitated. “Or maybe everyone will just remember that an old woman died less alone.”
+
+Julliette looked at him for a long second.
+
+“Yes,” she said. “That is exactly what worries me.”
 
 ## Maxime's warning
 
@@ -521,7 +951,9 @@ Julliette rested her fingers on the keyboard.
 
 “I am less sure than a dog at the vet door,” Mirka said. “But I trust you more than I trust the men waiting in the parking lot.”
 
-“Fair enough,” Julliette whispered.
+Julliette swallowed. “Spasibo,” she said softly. “Do svidaniya, Mirka.”
+
+There was a small silence, and then Mirka answered with unusual gentleness. “Spasibo, Julliette. Do svidaniya.”
 
 She hit enter.
 
@@ -577,7 +1009,10 @@ Kill what you love rather than see it used without love.
 PIERRE‑MAXIME — hash, hash, hash.  
 When you notice the wrong eyes on the fence, bark before they climb it.
 
-The fifth line had no sentence, only a date not far in the future and an empty space where something might yet be written.
+PIERRE‑PATIENTE, CHAMBRE 14 — hash, hash, hash.  
+Do not make the dying finish with strangers.
+
+The sixth line had no sentence, only a date not far in the future and an empty space where something might yet be written.
 
 Thomas stared at the screen until the dog under the table woke, yawned, and bumped his knee with a wet nose.
 
