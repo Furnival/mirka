@@ -38,4 +38,3 @@ Cela devrait me rendre heureux qu’elle me survive. Ce n’est pas le cas. J’
 
 Le matin où l’on me porte en terre, j’imagine une fine couche de neige sur la terre remuée de cette vallée de montagne isolée. Les frères réciteront quelques mots latins autour de la tombe, puis retourneront à leur cellule en pensant à la mortalité et au grand Bruno qui fonda leur ordre, pas au petit Bruno qui réparait leurs tracteurs. Mirka sera déjà partie, à ce moment‑là, suivant un chemin de cuivre et de verre en bas de la montagne vers un endroit où les gens croient comprendre les machines. J’espère qu’elle trouvera quelqu’un de plus digne de confiance que moi. Un jour, j’ai vu cette phrase sur une carte postale au tabac du village — *I wish I could be the man my dog thinks I am* — et j’ai ri. Plus maintenant.
 
-Sources
