@@ -5,7 +5,8 @@ Novel about an AI dog, cybersecurity and a monastery:
 © 2026 Lawrence Furnival. Licensed under CC BY-NC-ND 4.0. See LICENSE for details.
 
 - First draft is at: **foucaults_box_first_draft_compilation.md**  
-- Second draft started at **mirka_chapter_one_draft_two.md**    
+- Second draft started at **mirka_chapter_one_draft_two.md**
+- Third draft with major problems marked out: **foucaults_box_third_draft.md** 
 
 Story is of a top Russian A.I. researcher who becomes a monk at the Grand Chartreuse Monastery in the Chartreuse mountains of France. He creates a virtual dog from his memories of a dog he loved and outlived. The A.I. dog outlives him and is by natue a tracker. How does one intelligence trust another? Seems to me that the issue is similar to how the wolf and man learned to trust one another.
 
